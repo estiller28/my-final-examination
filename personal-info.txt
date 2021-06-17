@@ -1,0 +1,7 @@
+Name: Daniel Estiller
+Course/Year: BSIT-2D
+Date of Birth: August 1, 2000
+Place of Birth: Manila
+Gender: Male
+Civil Status: Single 
+Nationality: Filipino
